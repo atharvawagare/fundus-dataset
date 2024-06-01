@@ -150,7 +150,6 @@ sample_4.jpg,2.0,1.8,1.5,2
 sample_40.jpg,2.0,1.6,1.3,2
 sample_41.jpg,2.0,1.7,1.3,2
 sample_42.jpg,2.0,1.7,1.4,2
-sample_43.jpg,1.0,1.1,1.2,2
 sample_44.jpg,2.0,1.7,1.3,2
 sample_45.jpg,2.0,1.7,1.3,2
 sample_5.jpg,2.0,1.4,1.0,2
